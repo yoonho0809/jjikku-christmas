@@ -1,0 +1,362 @@
+{
+  "checked": "2026-11-10",
+  "components": [
+    {
+      "name": "React",
+      "version": "19.3.1",
+      "license": "MIT",
+      "files": [
+        "react.txt"
+      ],
+      "sources": [
+        "node_modules/react/LICENSE"
+      ],
+      "repository": "https://github.com/react/react.git",
+      "sha256": {
+        "react.txt": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
+      }
+    },
+    {
+      "name": "React DOM",
+      "version": "19.3.1",
+      "license": "MIT",
+      "files": [
+        "react-dom.txt"
+      ],
+      "sources": [
+        "node_modules/react-dom/LICENSE"
+      ],
+      "repository": "https://github.com/react/react.git",
+      "sha256": {
+        "react-dom.txt": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
+      }
+    },
+    {
+      "name": "React Scheduler",
+      "version": "0.28.0",
+      "license": "MIT",
+      "files": [
+        "react-scheduler.txt"
+      ],
+      "sources": [
+        "node_modules/scheduler/LICENSE"
+      ],
+      "repository": "https://github.com/react/react.git",
+      "sha256": {
+        "react-scheduler.txt": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
+      }
+    },
+    {
+      "name": "Capacitor Core",
+      "version": "8.6.0",
+      "license": "MIT",
+      "files": [
+        "capacitor-core.txt"
+      ],
+      "sources": [
+        "node_modules/@capacitor/core/LICENSE"
+      ],
+      "repository": "git+https://github.com/ionic-team/capacitor.git",
+      "sha256": {
+        "capacitor-core.txt": "9c6ebf3e5ab832ba4d5af38f340978e1fedbfee6e3d23662dfdb8917a9d864dd"
+      }
+    },
+    {
+      "name": "Capacitor Android",
+      "version": "8.6.0",
+      "license": "MIT",
+      "files": [
+        "capacitor-android.txt"
+      ],
+      "sources": [
+        "node_modules/@capacitor/android/LICENSE"
+      ],
+      "repository": "git+https://github.com/ionic-team/capacitor.git",
+      "sha256": {
+        "capacitor-android.txt": "9c6ebf3e5ab832ba4d5af38f340978e1fedbfee6e3d23662dfdb8917a9d864dd"
+      }
+    },
+    {
+      "name": "Capacitor Filesystem",
+      "version": "8.1.5",
+      "license": "MIT",
+      "files": [
+        "capacitor-filesystem.txt"
+      ],
+      "sources": [
+        "node_modules/@capacitor/filesystem/LICENSE"
+      ],
+      "repository": "https://github.com/ionic-team/capacitor-filesystem.git",
+      "sha256": {
+        "capacitor-filesystem.txt": "de884404585ed20280150b0768082b6004d3548aaa0d6e596d6bfa0538ab331d"
+      }
+    },
+    {
+      "name": "Capacitor Share",
+      "version": "8.0.3",
+      "license": "MIT",
+      "files": [
+        "capacitor-share.txt"
+      ],
+      "sources": [
+        "node_modules/@capacitor/share/LICENSE"
+      ],
+      "repository": "git+https://github.com/ionic-team/capacitor-plugins.git",
+      "sha256": {
+        "capacitor-share.txt": "eb99a0d61b507ad0182e18e9d2a91537c1d9025c94e098e4e7603a53b4b5218a"
+      }
+    },
+    {
+      "name": "Lucide React 및 Feather 유래 아이콘",
+      "version": "0.577.0",
+      "license": "ISC",
+      "files": [
+        "lucide-react.txt"
+      ],
+      "sources": [
+        "node_modules/lucide-react/LICENSE"
+      ],
+      "repository": "https://github.com/lucide-icons/lucide.git",
+      "sha256": {
+        "lucide-react.txt": "668dcc52803480e0a026b31140a4cae668772663cd764e5991d252eef03f98db"
+      }
+    },
+    {
+      "name": "TypeScript runtime helpers",
+      "version": "2.9.1",
+      "license": "0BSD",
+      "files": [
+        "tslib-1.txt",
+        "tslib-2.txt"
+      ],
+      "sources": [
+        "node_modules/tslib/LICENSE.txt",
+        "node_modules/tslib/CopyrightNotice.txt"
+      ],
+      "repository": "https://github.com/Microsoft/tslib.git",
+      "sha256": {
+        "tslib-1.txt": "210b19e543130388c68654b7497e967119ce17145f66ab7d85688fbd70f08751",
+        "tslib-2.txt": "da16ddb65f8ca390998fb99223d0112498b56b45784d00afd77ff8ce1ac4de8b"
+      }
+    },
+    {
+      "name": "Capacitor Synapse",
+      "version": "1.0.4",
+      "license": "MIT (LICENSE.md 원문; package metadata: ISC)",
+      "files": [
+        "capacitor-synapse.txt"
+      ],
+      "sources": [
+        "node_modules/@capacitor/synapse/LICENSE.md"
+      ],
+      "repository": "",
+      "sha256": {
+        "capacitor-synapse.txt": "de884404585ed20280150b0768082b6004d3548aaa0d6e596d6bfa0538ab331d"
+      }
+    },
+    {
+      "name": "DM Sans",
+      "version": "5.3.0",
+      "license": "OFL-1.1",
+      "files": [
+        "DM-Sans-OFL.txt"
+      ],
+      "sources": [
+        "docs/licenses/DM-Sans-OFL.txt"
+      ],
+      "sha256": {
+        "DM-Sans-OFL.txt": "6fbd040a29c2037a765dfb9f2561e9965b5c95c6dcb5dce516089d63d5f17af7"
+      }
+    },
+    {
+      "name": "Gowun Batang",
+      "version": "5.3.0",
+      "license": "OFL-1.1",
+      "files": [
+        "Gowun-Batang-OFL.txt"
+      ],
+      "sources": [
+        "docs/licenses/Gowun-Batang-OFL.txt"
+      ],
+      "sha256": {
+        "Gowun-Batang-OFL.txt": "ae9f51ce35e378ce4069b07167e40f1860025189ed1dae7117845aef1c323c39"
+      }
+    },
+    {
+      "name": "Noto Sans KR",
+      "version": "5.3.1",
+      "license": "OFL-1.1",
+      "files": [
+        "Noto-Sans-KR-OFL.txt"
+      ],
+      "sources": [
+        "docs/licenses/Noto-Sans-KR-OFL.txt"
+      ],
+      "sha256": {
+        "Noto-Sans-KR-OFL.txt": "18aabf190848725e2576eefb5c29ba06aac1029d02132252a7f312eac2e50cf3"
+      }
+    },
+    {
+      "name": "MediaPipe Tasks Vision 및 로컬 분석 모델",
+      "version": "tasks-vision 1.2.2 / 모델 manifest 버전 1",
+      "license": "Apache-2.0",
+      "files": [
+        "MediaPipe-Apache-2.0.txt",
+        "MediaPipe-model-sources.txt"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/google-ai-edge/mediapipe/master/LICENSE",
+        "https://storage.googleapis.com/mediapipe-assets/MediaPipe%20BlazeFace%20Model%20Card%20(Short%20Range).pdf",
+        "https://storage.googleapis.com/mediapipe-assets/Model%20Card%20MediaPipe%20Face%20Mesh%20V2.pdf",
+        "https://storage.googleapis.com/mediapipe-assets/Model%20Card%20Blendshape%20V2.pdf",
+        "https://storage.googleapis.com/mediapipe-assets/Model%20Card%20MediaPipe%20Selfie%20Segmentation.pdf"
+      ],
+      "sha256": {
+        "MediaPipe-Apache-2.0.txt": "8707eef0533987efc5b155d64761eeb6e20793f50b9bd1a68dad1cf4719d0ed8",
+        "MediaPipe-model-sources.txt": "b9602c67563a6ab04f4a4f691f95094464588e98d20d8e8b20d87371bd135db0"
+      }
+    },
+    {
+      "name": "AndroidX 런타임 라이브러리",
+      "version": "45개 Maven 모듈",
+      "license": "Apache-2.0",
+      "files": [
+        "AndroidX-Apache-2.0.txt"
+      ],
+      "sources": [
+        "Extracted verbatim from resolved Maven artifact: AndroidX-Apache-2.0.txt",
+        "https://android.googlesource.com/platform/frameworks/support/"
+      ],
+      "sha256": {
+        "AndroidX-Apache-2.0.txt": "809fa1ed21450f59827d1e9aec720bbc4b687434fa22283c6cb5dd82a47ab9c0"
+      }
+    },
+    {
+      "name": "Apache Cordova Android",
+      "version": "14.0.1",
+      "license": "Apache-2.0",
+      "files": [
+        "Cordova-NOTICE.txt",
+        "Cordova-LICENSE.txt"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/apache/cordova-android/rel/14.0.1/NOTICE",
+        "https://raw.githubusercontent.com/apache/cordova-android/rel/14.0.1/LICENSE"
+      ],
+      "sha256": {
+        "Cordova-NOTICE.txt": "e94707080ab2781d5ba4ceac999f31db2539d2477783287969c52580b9fa84b0",
+        "Cordova-LICENSE.txt": "401f08372facabc78d6d408a32de4f617fd9552c95e01797838c9d60a938b4da"
+      }
+    },
+    {
+      "name": "Ionic Android Filesystem",
+      "version": "1.1.1",
+      "license": "MIT",
+      "files": [
+        "Ion-Filesystem-MIT.txt"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/ionic-team/ion-android-filesystem/1.1.1/LICENSE"
+      ],
+      "sha256": {
+        "Ion-Filesystem-MIT.txt": "de884404585ed20280150b0768082b6004d3548aaa0d6e596d6bfa0538ab331d"
+      }
+    },
+    {
+      "name": "Kotlin 표준 라이브러리 및 포함된 제3자 코드",
+      "version": "2.2.20",
+      "license": "Apache-2.0 / BSD-3-Clause / BSL-1.0",
+      "files": [
+        "Kotlin-COPYRIGHT.txt",
+        "Kotlin-LICENSE.txt",
+        "Kotlin-stdlib-GWT.txt",
+        "Kotlin-stdlib-ThreeTen.txt",
+        "Kotlin-stdlib-Guava.txt",
+        "Kotlin-stdlib-Boost.txt"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/JetBrains/kotlin/v2.2.20/license/COPYRIGHT_HEADER.txt",
+        "https://raw.githubusercontent.com/JetBrains/kotlin/v2.2.20/license/LICENSE.txt",
+        "https://raw.githubusercontent.com/JetBrains/kotlin/v2.2.20/license/third_party/gwt_license.txt",
+        "https://raw.githubusercontent.com/JetBrains/kotlin/v2.2.20/license/third_party/threetenbp_license.txt",
+        "https://raw.githubusercontent.com/JetBrains/kotlin/v2.2.20/license/third_party/guava_license.txt",
+        "https://raw.githubusercontent.com/JetBrains/kotlin/v2.2.20/license/third_party/boost_LICENSE.txt",
+        "https://github.com/JetBrains/kotlin/blob/v2.2.20/license/README.md"
+      ],
+      "sha256": {
+        "Kotlin-COPYRIGHT.txt": "e2047ed7177b71a0e09d4bfbd8f812a2d1567a36d8c5778d8d31ddda9a440dda",
+        "Kotlin-LICENSE.txt": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "Kotlin-stdlib-GWT.txt": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "Kotlin-stdlib-ThreeTen.txt": "d1bc53b493a3ab387b42717ed5c4b1976a5048996f81154278100bff86d39331",
+        "Kotlin-stdlib-Guava.txt": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "Kotlin-stdlib-Boost.txt": "8d8291caf1cee26d23acf3eb67c9f9a2d58f1c681b16a4fbe8cbfb9e3c0b5a9b"
+      }
+    },
+    {
+      "name": "Kotlinx Coroutines",
+      "version": "1.10.2",
+      "license": "Apache-2.0",
+      "files": [
+        "Kotlinx-Coroutines-NOTICE.txt",
+        "Kotlinx-Coroutines-LICENSE.txt"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/Kotlin/kotlinx.coroutines/1.10.2/license/NOTICE.txt",
+        "https://raw.githubusercontent.com/Kotlin/kotlinx.coroutines/1.10.2/LICENSE.txt"
+      ],
+      "sha256": {
+        "Kotlinx-Coroutines-NOTICE.txt": "1ab6de67ef738bffae63f9aa6a8798a35e87341c83ea28d09c8dc8ca6993232a",
+        "Kotlinx-Coroutines-LICENSE.txt": "b1febe6399dffb10d19d35e7663ab16300c93cb0476a94115df1cc0097a8ffd8"
+      }
+    },
+    {
+      "name": "JetBrains Java Annotations",
+      "version": "23.0.0",
+      "license": "Apache-2.0",
+      "files": [
+        "JetBrains-Annotations-LICENSE.txt"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/JetBrains/java-annotations/23.0.0/LICENSE.txt"
+      ],
+      "sha256": {
+        "JetBrains-Annotations-LICENSE.txt": "8c1e966c7855fb54027bcaf6ebe7a43abe4785791e8cf9148c363761d493d097"
+      }
+    },
+    {
+      "name": "JSpecify",
+      "version": "1.0.0",
+      "license": "Apache-2.0",
+      "files": [
+        "JSpecify-AUTHORS.txt",
+        "JSpecify-LICENSE.txt"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/jspecify/jspecify/v1.0.0/AUTHORS",
+        "https://raw.githubusercontent.com/jspecify/jspecify/v1.0.0/LICENSE"
+      ],
+      "sha256": {
+        "JSpecify-AUTHORS.txt": "7353fdb5b1feba97c03ee2d142cad73681d07d30d70b4aac92bfd7cf7c0f315f",
+        "JSpecify-LICENSE.txt": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+      }
+    },
+    {
+      "name": "Guava ListenableFuture",
+      "version": "1.0",
+      "license": "Apache-2.0",
+      "files": [
+        "Guava-ListenableFuture-LICENSE.txt",
+        "Android-runtime-inventory.json"
+      ],
+      "sources": [
+        "https://raw.githubusercontent.com/google/guava/v26.0/COPYING",
+        "https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/26.0-android/guava-parent-26.0-android.pom"
+      ],
+      "sha256": {
+        "Guava-ListenableFuture-LICENSE.txt": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "Android-runtime-inventory.json": "d11a1b53dccbc292267da22cc17f996629d85bd66c7e7ca41b825164d7b22cd9"
+      }
+    }
+  ],
+  "scope": "Direct application dependencies and JavaScript runtime dependencies, fonts, model license sources, and resolved Android debugRuntimeClasspath modules. MediaPipe WASM third-party internals are not a complete independently verified SBOM."
+}

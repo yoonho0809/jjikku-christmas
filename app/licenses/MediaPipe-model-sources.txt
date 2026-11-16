@@ -1,0 +1,33 @@
+MediaPipe 모델 출처
+
+제공: Google / MediaPipe
+공식 모델 카드 각각 첫 페이지: Apache License, Version 2.0
+모델은 원본 파일로 포함하며 코드에서 이미지 좌표와 마스크를 처리합니다.
+
+BlazeFace
+https://storage.googleapis.com/mediapipe-assets/MediaPipe%20BlazeFace%20Model%20Card%20(Short%20Range).pdf
+
+Face Mesh V2
+https://storage.googleapis.com/mediapipe-assets/Model%20Card%20MediaPipe%20Face%20Mesh%20V2.pdf
+
+Blendshape V2
+https://storage.googleapis.com/mediapipe-assets/Model%20Card%20Blendshape%20V2.pdf
+
+Selfie Segmentation
+https://storage.googleapis.com/mediapipe-assets/Model%20Card%20MediaPipe%20Selfie%20Segmentation.pdf
+
+포함 모델 파일
+[
+  {
+    "file": "face_landmarker.task",
+    "source": "https://storage.googleapis.com/mediapipe-models/face_landmarker/face_landmarker/float16/1/face_landmarker.task",
+    "bytes": 3758596,
+    "sha256": "64184e229b263107bc2b804c6625db1341ff2bb731874b0bcc2fe6544e0bc9ff"
+  },
+  {
+    "file": "selfie_segmenter.tflite",
+    "source": "https://storage.googleapis.com/mediapipe-models/image_segmenter/selfie_segmenter/float16/1/selfie_segmenter.tflite",
+    "bytes": 249537,
+    "sha256": "191ac9529ae506ee0beefa6b2c945a172dab9d07d1e802a290a4e4038226658b"
+  }
+]
